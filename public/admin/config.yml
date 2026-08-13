@@ -8,7 +8,7 @@ public_folder: "/assets"     # Public URL path for images
 collections:
   - name: "blog"
     label: "Blog Posts"
-    folder: "src/content/blog" # AstroPaper v6 blog folder path
+    folder: "src/content/posts" # AstroPaper v6 blog folder path
     create: true
     slug: "{{slug}}"
     fields:
