@@ -2,7 +2,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://astro-paper.pages.dev/",
+    url: "http://wateringtheplants.netlify.app/",
     title: "Watering the plants",
     description: "From watering the plants to finding a sidehuslte",
     author: "Shafat M.",
