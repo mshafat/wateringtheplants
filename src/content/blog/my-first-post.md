@@ -1,6 +1,6 @@
 ---
 title: My first post
-pubDatetime: 2026-08-12T18:27:00.000+06:00
+pubDatetime: 2026-08-13T22:40:00.000+06:00
 author: Shafat
 description: I shared a bit more about this blog and what I have started doing recently.
 featured: false
