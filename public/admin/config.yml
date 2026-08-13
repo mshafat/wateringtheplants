@@ -1,0 +1,23 @@
+backend:
+  name: git-gateway
+  branch: main # or master, depending on your default GitHub branch
+
+media_folder: "public/assets" # Where uploaded images are saved
+public_folder: "/assets"     # Public URL path for images
+
+collections:
+  - name: "blog"
+    label: "Blog Posts"
+    folder: "src/content/blog" # AstroPaper v6 blog folder path
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "pubDatetime", widget: "datetime" }
+      - { label: "Mod Date (Optional)", name: "modDatetime", widget: "datetime", required: false }
+      - { label: "Author", name: "author", widget: "string", default: "Your Name" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Featured", name: "featured", widget: "boolean", default: false }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "Tags", name: "tags", widget: "list", default: ["general"] }
+      - { label: "Body", name: "body", widget: "markdown" }
