@@ -2,7 +2,7 @@
 title: "About"
 description: "A bit about me and how this blog started"
 ---
-This is Shafat M. In 2020, when I was home during the pandemic, I started a side hustle online, working as a management contributor in a well-known management forum. In May 2022, out of curiosity and a few small needs, I started doing affiliate marketing. I learned a lot from both. I continued my affiliate marketing side hustle till early 2025. But it was not satisfying for me at heart. So I kept searching something that could bring in $200–500 consistently every month, but also satisfy my heart. My goal was simple: I had roughly 2 hours a day and 5 days a week to work on a side hustle.
+This is Shafat M. In 2020, when I was home during the pandemic, I started a side hustle online, working as a management contributor in a well-known management forum. In May 2022, out of curiosity and a few small needs, I started doing affiliate marketing. I learned a lot from both. I continued my affiliate marketing side hustle till early 2025. But it was not satisfying for me at heart. So I kept searching something that could bring in $200–500 consistently every month, but also satisfy my heart. My goal was simple: I had roughly 2 hours a day and 4 days a week to work on a side hustle.
 
 In early 2026, I decided I had to do something in open source. I have been using Linux-based systems for a decade. But I never really delved deep into it. All I did was distro hopping, a typical Linux fanboy habit that keeps a user changing distribution/desktop environment every once in a while. As I matured, I stopped distro hopping in the last few years because, while I was working as an affiliate marketer, I could recognize that this is just "shiny object syndrome" in a different form.
 
