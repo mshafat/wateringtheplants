@@ -1,6 +1,6 @@
 ---
 title: My first post -- A bit about my Linux System Administration journey so far
-pubDatetime: 2026-08-12T10:00:00.000Z
+pubDatetime: 2026-08-13T20:00:00.000+06:00
 author: Shafat
 description: "In this post I shared how I'm going to achieve my goal of
   establishing a side hustle this time. "
