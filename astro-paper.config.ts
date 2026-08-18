@@ -4,7 +4,7 @@ export default defineAstroPaperConfig({
   site: {
     url: "http://wateringtheplants.netlify.app/",
     title: "Watering the plants",
-    description: "Weekly plant care → server care",
+    description: "Weekly plant care → server care.",
     author: "Shafat M.",
     profile: "https://www.threads.com/@digishikhon",
     ogImage: "default-og.jpg",
